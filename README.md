@@ -5,7 +5,7 @@
 👋 Hello! My name is Juan Pablo, I am 19 years old and I am a Software Engineering student at the Infnet Institute. I am currently in the second semester of my degree and I am constantly learning and evolving, seeking to consolidate my knowledge in software development.
 
 <div> 
-  <a href = "juan8pps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:juan8pps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juanpaixao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
