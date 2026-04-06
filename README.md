@@ -2,7 +2,7 @@
 
 **`Dev FullStack`**
 
-👋 Hello! My name is Juan Pablo, I am 20 years old and I am a Software Engineering student at the Infnet Institute. I am currently in the second semester of my degree and I am constantly learning and evolving, seeking to consolidate my knowledge in software development.
+👋 Hello! My name is Juan Pablo, I'm 20 years old and I'm a Software Engineering student at Instituto Infnet. I'm in my fourth semester and I'm constantly looking to learn and improve, consolidating my knowledge in software development.
 
 <div> 
   <a href = "mailto:juan8pps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
